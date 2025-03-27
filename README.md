@@ -24,45 +24,6 @@ Este projeto é um aplicativo mobile desenvolvido para o setor de restaurantes n
 
 O aplicativo foi desenvolvido utilizando **React Native** e **Expo**, com uma arquitetura otimizada para performance e experiência do usuário.
 
-## 🖥️ Como rodar este projeto 🖥️
-
-### Requisitos:
-
-- [Node.js](https://nodejs.org/pt) instalado
-- [Expo CLI](https://docs.expo.dev/get-started/installation/) instalado
-
-### Execução:
-
-1. Clone este repositório:
-
-   ```sh
-   git clone https://github.com/claudio-lins/chefzmate-app
-   ```
-
-2. Acesse o diretório do projeto:
-
-   ```sh
-   cd chefzmate-app
-   ```
-
-3. Instale as dependências:
-
-   ```sh
-   npm install
-   ```
-
-4. Configure as variáveis de ambiente:
-
-   Será necessário criar um arquivo `.env` com as mesmas variáveis de ambiente listadas no arquivo `.env.example` na pasta raiz da aplicação e preencher esse arquivo com as variáveis correspondentes.
-
-5. Inicie o aplicativo:
-
-   ```sh
-   expo start
-   ```
-
-6. Escaneie o QR code com o aplicativo Expo Go para testar no seu celular.
-
 ## 🗲️ Features técnicas implementadas 🗲️
 
 - Sistema de pagamento e assinaturas com RevenueCat
