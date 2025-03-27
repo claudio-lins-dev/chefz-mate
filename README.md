@@ -1,7 +1,7 @@
 📱 Chefz Mate - Mobile App
 
 <div align="center">
-<img src="[https://github.com/claudio-lins-dev/chefzmate-app/blob/main/assets/logo.png?raw=true](https://raw.githubusercontent.com/claudio-lins-dev/chefz-mate-mobile/955404af6b4d412dc84581367f37ed3c00308b45/assets/notification-on.svg)" width="350" />
+<img src="https://raw.githubusercontent.com/claudio-lins-dev/chefz-mate-mobile/955404af6b4d412dc84581367f37ed3c00308b45/assets/notification-on.svg" width="350" />
 </div>
 
 <br/>
